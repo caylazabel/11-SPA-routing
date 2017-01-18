@@ -11,4 +11,5 @@
   }
 
   module.aboutController = aboutController;
+
 })(window);
